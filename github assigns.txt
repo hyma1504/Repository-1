@@ -1,0 +1,5 @@
+create an account in github and download git desktop
+create a repo-
+git desktop-
+git clone-
+collabarator-
